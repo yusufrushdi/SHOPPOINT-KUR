@@ -1,0 +1,11 @@
+<!DOCTYPE html>
+<html lang="tr">
+<head>
+  <meta charset="UTF-8">
+  <title>SHOPPOINT Döviz Kurları</title>
+</head>
+<body>
+  <h1>Güncel Döviz Kurları</h1>
+  <iframe src="https://borsa-alam.com" width="100%" height="800"></iframe>
+</body>
+</html>
